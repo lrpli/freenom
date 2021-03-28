@@ -19,7 +19,8 @@
     
     
     
-    hello world
+    hello world 
+    scanf(“%d”,&a）
     
 
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
